@@ -1,2 +1,2 @@
-# C-35-PROJ
-C-35 PROJ
+# p5.play-boilerplate
+Boiler plate for p5.play
